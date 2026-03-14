@@ -5,20 +5,32 @@
 I enjoy building scalable web applications and backend systems.
 </p>
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=viveksharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="viveksharma2003" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=viveksharma2003&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<br>
+---
 
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - Passionate about building **scalable backend systems and full-stack applications**
 - Interested in **APIs, system design, and distributed systems**
 - Focused on **clean architecture, performance, and maintainability**
-- Always learning and exploring new technologies
+- Always learning and exploring **new technologies**
+
+</td>
+
+<td width="40%">
+
+<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -26,7 +38,7 @@ I enjoy building scalable web applications and backend systems.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-sharma-962710228/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
@@ -43,16 +55,16 @@ I enjoy building scalable web applications and backend systems.
 
 # 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksharma2003&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=viveksharma2003&show_icons=true&locale=en" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksharma2003&show_icons=true&locale=en" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksharma2003" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksharma2003&" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksharma2003&show_icons=true&locale=en&layout=compact" />
 </p>
 
 ---
